@@ -1,2 +1,2 @@
 # FrontEnd-Mision 🚀
-[SEMANA 1](./01 - INTRO)
+- [Semana 1 - Despegue 🚀](https://github.com/RicardoLunaRivera/FrontEnd-Mision/tree/main/01%20-%20INTRO)
